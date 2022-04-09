@@ -1,0 +1,7 @@
+.img-container{
+    height: 500px;
+}
+
+.img-container img{
+    height: 100%;
+}
